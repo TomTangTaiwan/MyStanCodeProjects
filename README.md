@@ -29,5 +29,5 @@ Watch my [DEMO VIDEO](https://1drv.ms/u/s!AuUOyRlH3Y79g64U9DcEgZp7fhfFJQ?e=tlhjz
 * [Anagram](https://github.com/TomTangTaiwan/MyStanCodeProjects/tree/main/stanCode_Projects/recursion_anagram)
   * recursive functions & back-tracking practicing
 
-* [Add 2]
+* [Add 2](https://github.com/TomTangTaiwan/MyStanCodeProjects/tree/main/stanCode_Projects/linkedlist_add2)
   * Linked List
