@@ -2,6 +2,8 @@
 Hi there!\
 This repository holds my programming projects of the stanCode SC101 course
 
+[My Certificate](https://github.com/TomTangTaiwan/MyStanCodeProjects/blob/main/stanCode_Projects/Certificate_SC101.pdf)
+
 Watch my [DEMO VIDEO](https://1drv.ms/u/s!AuUOyRlH3Y79g64U9DcEgZp7fhfFJQ?e=tlhjz3)
 
 ## Project Source Codes:
